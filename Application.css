@@ -1,0 +1,21 @@
+#box{
+    background-color: rgb(200, 199, 207);
+    border: 1px solid black;width:900px;margin: auto;padding: 2%;
+  }
+  img{
+    padding-left: 2%;padding-top: 3%;
+    height: 60px;width: 60px;
+  }
+  h1{ display: inline;padding-top: 25px;padding-left: 75px;text-align: center;}
+  #add{text-align: center;font-style: italic}
+  #web{font-style: normal;text-align: center;}
+  #stdnt
+  {
+    text-align: center;
+    margin: -5px;
+  }
+  #photo{border: 1px solid black;
+    margin-left: 82%;margin-top: -4%;
+    height: 100px;width: 90px;font-style: normal;
+    display: inline-block}
+  #info{padding-left: 2%;}
